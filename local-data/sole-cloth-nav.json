@@ -1,0 +1,65 @@
+{
+	"type0":{
+		"selection":"种类",
+		"options":[
+			{
+				"type":"全部"
+			},{
+				"type":"T恤"
+			},{
+				"type":"长裤"
+			},{
+				"type":"风衣"
+			},{
+				"type":"针织"
+			},{
+				"type":"套装"
+			}
+			
+		]
+	},
+	"type1":{
+		"selection":"尺码",
+		"options":[
+			{
+				"type":"全部"
+			},{
+				"type":"XXS"
+			},{
+				"type":"XS"
+			},{
+				"type":"S"
+			},{
+				"type":"M"
+			},{
+				"type":"L"
+			}
+			
+		]
+	},
+	"type2":{
+		"selection":"价格",
+		"options":[
+			{
+				"type":"默认"
+			},{
+				"type":"价格从高到低"
+			},{
+				"type":"价格从低到高"
+			}
+		]
+	},
+	"type3":{
+		"selection":"显示",
+		"options":[
+			{
+				"type":"全部"
+			},{
+				"type":"只显示未售商品"
+			},{
+				"type":"只显示全新商品"
+			}
+		]
+	}
+
+}
